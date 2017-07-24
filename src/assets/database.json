@@ -1,0 +1,110 @@
+{
+  "categories": {
+    "cars": [
+      {
+        "id": 1,
+        "title": "Audi",
+        "description": "Lorem...",
+        "favourite": true,
+        "img": "../../assets/img/cars/bmw1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "BMW",
+        "description": "Lorem...",
+        "favourite": false,
+        "img": "../../assets/img/cars/audi1.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Infinity",
+        "description": "Lorem...",
+        "favourite": false,
+        "img": "../../assets/img/cars/infinity1.jpg"
+      }
+    ],
+    "headphones": [
+      {
+        "id": 5,
+        "title": "Sony",
+        "description": "Lorem...",
+        "favourite": false,
+        "img": "../../assets/img/headphones/Sony-xb700.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Sony",
+        "description": "Lorem...",
+        "favourite": false,
+        "img": "../../assets/img/headphones/Sony-XB950.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Beats",
+        "description": "Lorem...",
+        "favourite": true,
+        "img": "../../assets/img/headphones/beats-dr-dr3-wifi-2.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Sony",
+        "description": "Lorem...",
+        "favourite": false,
+        "img": "../../assets/img/headphones/beats-dr-dre-wifi.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Sony",
+        "description": "Lorem...",
+        "favourite": false,
+        "img": "../../assets/img/headphones/beats-dr-dre-wifi-3.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Sony",
+        "description": "Lorem...",
+        "favourite": false,
+        "img": "../../assets/img/headphones/Philips-SHB3060BK.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Sony",
+        "description": "Lorem...",
+        "favourite": false,
+        "img": "../../assets/img/headphones/Philips-SHL3210BK.jpg"
+      }
+    ],
+    "mouses": [
+      {
+        "id": 11,
+        "title": "Logitech",
+        "description": "Lorem...",
+        "favourite": false,
+        "img": "../../assets/img/mouses/Logitech-G502.jpg"
+      },
+      {
+        "id": 12,
+        "title": "Razer",
+        "description": "Lorem...",
+        "favourite": true,
+        "img": "../../assets/img/mouses/Razer-Chroma.jpg"
+      }
+    ],
+    "smartphones": [
+      {
+        "id": 7,
+        "title": "Samsung",
+        "description": "Lorem...",
+        "favourite": false,
+        "img": "../../assets/img/smartphones/Samsung-Galaxy-A7.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Xiaomi",
+        "description": "Lorem...",
+        "favourite": true,
+        "img": "../../assets/img/smartphones/Xiaomi-Redmi-3s.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+@import "./normalize";
+
+.img-container{
+  height: 100%;
+  max-height: 300px;
+  width: 100%;
+  background-color: transparent;
+  position: relative;
+  margin-bottom: 15px;
+  object-position: top;
+
+  img{
+    width: 100%;
+    height: auto;
+    max-height: calc(300px - 40px);
+    object-fit: cover;
+  }
+
+  .img-title{
+    border: 1px solid #333;
+    height: 40px;
+    line-height: 40px;
+    font-size: 1.2em;
+    text-align: center;
+    color: #777;
+  }
+}

@@ -1,0 +1,6 @@
+<div class="col-xs-12 col-sm-6 offset-sm-3" *ngIf="(gallery$ | async) as gallery">
+  <div class="img-container" *ngFor="let photo of gallery.categories.headphones">
+    <img [src]="photo.img" alt="Image" />
+    <div class="img-title"> {{ photo.title }} </div>
+  </div>
+</div>
